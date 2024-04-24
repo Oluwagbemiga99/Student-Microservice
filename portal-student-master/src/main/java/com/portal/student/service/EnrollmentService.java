@@ -75,9 +75,9 @@ public class EnrollmentService {
                 return "Course successfully enrolled, ID " + savedEnrollment.getId();
             }
 
-            return "Course is not exist";
+            return "Course does not exist";
         }
 
-        return "Student is not exist";
+        return "Student does not exist";
     }
 }
