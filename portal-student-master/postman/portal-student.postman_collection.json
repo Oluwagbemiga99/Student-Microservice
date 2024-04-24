@@ -275,6 +275,11 @@
 									"key": "lastname",
 									"value": "test",
 									"type": "text"
+								},
+								{
+									"key": "email",
+									"value": "test@gmail.com",
+									"type": "text"
 								}
 							]
 						},
